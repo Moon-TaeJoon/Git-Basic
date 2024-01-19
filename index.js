@@ -1,4 +1,4 @@
-function login (username,password, flag){
+function login (username,password, flag, flag2){
     return ture;
 }
 
